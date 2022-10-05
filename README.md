@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🔭 I’m currently working on blockchain<br>
+🌱 I’m currently learning solidity<br>
+If you share same habit with me, welcome to come and talk to me.<br>
+
 <!--
 **danwan1027/danwan1027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
